@@ -9,7 +9,7 @@ import {
 import { Button } from 'react-native-elements';
 import Icon from 'react-native-vector-icons/FontAwesome';
 
-const msg = "Kampanya | BKMEXPRESS koduyla arzum.com dan indirimli alışveriş yapabilirsin.";
+const msg = "Kampanya | Message Content";
 const DetailScreen = ({navigation}) => (
 
   <View style={styles.container}>
