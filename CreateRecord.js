@@ -9,11 +9,11 @@ import { createStackNavigator, createBottomTabNavigator, createAppContainer } fr
 import {container,Content,Header,Form,Input,Item,Label,List,ListItem} from 'native-base'
 import * as firebase from 'firebase';
 const firebaseConfig ={
-    apiKey: "AIzaSyCCuuSi5N6bp80Hnmlq2pDB2hO-PdzdCb0",
-    authDomain: "kampanya-9a6ea.firebaseapp.com",
-    databaseURL: "https://kampanya-9a6ea.firebaseio.com",
-    projectId: "kampanya-9a6ea",
-    storageBucket: "kampanya-9a6ea.appspot.com",
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
 };
 
 var data = ["Migros", "Puma MotorSport"]
